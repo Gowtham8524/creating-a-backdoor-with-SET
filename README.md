@@ -71,9 +71,9 @@ SET logs the information regarding the Google credentials:
 SET logs the information in the xml file under /root/.set directory:
 ## OUTPUT
 
-![alt text](<../image/Screenshot 2025-11-06 091741.png>)
 
 
+![alt text](<image/Screenshot 2025-11-06 091741.png>)
 
 
 
