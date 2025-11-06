@@ -65,14 +65,14 @@ In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address)
 
 SET logs the information regarding the Google credentials:
 ## OUTPUT
-
 ![alt text](<../image/Screenshot 2025-11-06 090708.png>)
+
 
 SET logs the information in the xml file under /root/.set directory:
 ## OUTPUT
 
-
 ![alt text](<../image/Screenshot 2025-11-06 091741.png>)
+
 
 
 
